@@ -1,0 +1,17 @@
+C:\Users\marce\source\repos\TesteC\TesteC\bin\Debug\net6.0-windows\TesteC.exe
+C:\Users\marce\source\repos\TesteC\TesteC\bin\Debug\net6.0-windows\TesteC.deps.json
+C:\Users\marce\source\repos\TesteC\TesteC\bin\Debug\net6.0-windows\TesteC.runtimeconfig.json
+C:\Users\marce\source\repos\TesteC\TesteC\bin\Debug\net6.0-windows\TesteC.dll
+C:\Users\marce\source\repos\TesteC\TesteC\bin\Debug\net6.0-windows\TesteC.pdb
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\TesteC.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\TesteC.Form1.resources
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\TesteC.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\TesteC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\TesteC.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\TesteC.AssemblyInfo.cs
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\TesteC.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\TesteC.dll
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\refint\TesteC.dll
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\TesteC.pdb
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\TesteC.genruntimeconfig.cache
+C:\Users\marce\source\repos\TesteC\TesteC\obj\Debug\net6.0-windows\ref\TesteC.dll
